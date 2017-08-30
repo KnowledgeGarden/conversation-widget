@@ -1,8 +1,8 @@
-import LandingContainer from '../modules/landing/containers/Landing/LandingContainer';
+import LandingContainer from '../modules/maps/containers/Maps/MapsContainer';
 
 export default function (store) {
   return {
-    component: LandingContainer,
+    component: MapsContainer,
     childRoutes: [
       require('./login')(store),
       require('./signup')(store),

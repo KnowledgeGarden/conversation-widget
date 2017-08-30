@@ -12,6 +12,10 @@ import {makeRequired} from '../utils';
 import {Node} from '../Nodes/nodeSchema';
 import r from '../../../database/rethinkdriver';
 
+/////////////////////////////
+// This is an IBIS Map: a conversation tree
+// It will be created by another app with a REST call
+/////////////////////////////
 export const Map = new GraphQLObjectType({
   name: 'Map',
   description: 'A dialogue map',

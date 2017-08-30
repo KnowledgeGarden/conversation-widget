@@ -1,4 +1,4 @@
-# Conversation Widget [![Circle CI](https://circleci.com/gh/wenzowski/dialogue-map/tree/master.svg?style=shield&circle-token=846af5194f8f6079cd803a5cb0f2dafa348ffa99)](https://circleci.com/gh/wenzowski/dialogue-map/tree/master)[![Coverage Status](https://coveralls.io/repos/github/wenzowski/dialogue-map/badge.svg?branch=master&t=cxY0fy)](https://coveralls.io/github/wenzowski/dialogue-map?branch=master)[![AVA test suite](https://img.shields.io/badge/test_suite-AVA-5ed9c7.svg)](https://github.com/sindresorhus/ava)[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
+# Conversation Widget 
 A web-based widget for structured conversation. For serving conversations in TQPortal and other platforms.
 
 ##Docs for Major Components
