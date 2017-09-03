@@ -1,7 +1,7 @@
 import {GraphQLNonNull, GraphQLBoolean, GraphQLString} from 'graphql';
 import promisify from 'es6-promisify';
 import bcrypt from 'bcrypt';
-import uuid from 'node-uuid';
+import uuid from 'uuid';
 import validateSecretToken from '../../../../universal/utils/validateSecretToken';
 import {auths} from '../../../backside/AuthDriver';
 import {users} from '../../../backside/UserDriver';

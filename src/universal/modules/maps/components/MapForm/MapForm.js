@@ -1,5 +1,5 @@
 import React, {Component, PropTypes} from 'react';
-import uuid from 'node-uuid';
+import uuid from 'uuid';
 import Paper from 'material-ui/Paper';
 import TextField from 'material-ui/TextField';
 import {reduxForm} from 'redux-form';

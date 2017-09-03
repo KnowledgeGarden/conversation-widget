@@ -1,4 +1,4 @@
-import uuid from 'node-uuid';
+import uuid from 'uuid';
 import React, {Component, PropTypes} from 'react';
 
 import Drawer from 'material-ui/Drawer';
