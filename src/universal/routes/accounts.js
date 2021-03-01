@@ -1,4 +1,4 @@
-import LandingContainer from '../modules/maps/containers/Maps/MapsContainer';
+import MapsContainer from '../modules/maps/containers/Maps/MapsContainer';
 
 export default function (store) {
   return {
