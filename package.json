@@ -89,7 +89,7 @@
     "babel-preset-stage-0": "6.5.0",
     "babel-register": "6.9.0",
     "babel-runtime": "6.9.0",
-    "bcrypt": "0.8.6",
+    "bcrypt": "5",
     "body-parser": "1.15.1",
     "classnames": "^2.2.3",
     "compression": "1.6.2",
